@@ -1,3 +1,3 @@
-Initial QA Project Upload
+README.md
 # qa-login-automation-project
 QA Testing Project (Manual + Automation)
